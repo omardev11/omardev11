@@ -49,7 +49,6 @@ It has been a year since my learning journey began, and I am proud to say that i
 
 
 ## Thank you to everyone for visiting my profile ##
-## Hi there 👋
 
 <!--
 **omardev11/omardev11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
