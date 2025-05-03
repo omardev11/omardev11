@@ -48,7 +48,7 @@
 
 <h1>Conclusion</h1>
 
-It has been a year since my learning journey began, and I am proud to say that it has been an exciting and enriching experience. I’ve completed several small projects and two larger ones, and I continue to work on new projects to sharpen my skills.
+It has been a 2 year since my learning journey began, and I am proud to say that it has been an exciting and enriching experience. I’ve completed several small projects and two larger ones, and I continue to work on new projects to sharpen my skills.
 
 Today, I specialize in **back-end development** with the .NET stack and am **actively expanding** into full **front-end development**. My goal is to become a complete full-stack web developer and build polished, real-world applications from A to Z.
 
